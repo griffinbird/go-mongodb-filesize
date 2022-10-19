@@ -8,6 +8,8 @@ git clone https://github.com/griffinbird/
 ```
 Browse to your directory were you cloned this repo to
 Update the filename and connection string information in .env 
+- device-classification.json ~18MB
+- user.json 287B
 ```sh
 go get .
 go run main.go
